@@ -18,9 +18,3 @@ User-friendly Interface: The tool provides a user-friendly interface that allows
 
 The Automated VAPT Reporting Tool is designed for security professionals, system administrators, and other stakeholders involved in conducting VAPT assessments. It provides a streamlined and automated approach to vulnerability assessment and penetration testing, helping organizations identify and mitigate potential security risks in their systems and networks.
 
-Technologies Used:
-1)Nmap: A widely used network scanning tool for discovering open ports, services, and operating systems on remote hosts.
-2)OpenVAS (GVM): A popular open-source vulnerability management and assessment tool that provides comprehensive vulnerability scanning and reporting capabilities.
-3)Python: A powerful scripting language used for automating the scanning and reporting process.
-4)Python Libraries: Various Python libraries for interacting with Nmap, GVM, and generating PDF reports, such as python-nmap, gvm-tools, and ReportLab.
-5)Command-line Interface (CLI): Interactions with Nmap and GVM are done via the command-line interface (CLI) using subprocess or similar libraries in Python.
